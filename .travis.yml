@@ -29,6 +29,6 @@ deploy:
   file_glob: true
   skip_cleanup: true
   on:
-    repo: JoshuaWise/better-sqlite3
+    repo: newmanw/better-sqlite3
     tags: true
-    node_js: "12"
+    node_js: "14"
